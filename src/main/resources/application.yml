@@ -1,0 +1,8 @@
+server:
+  port: 8080
+
+currency:
+  base: USD
+openexchangeclient:
+  url: https://openexchangerates.org/api
+  key: 084e33f56d8345688a49befc539b60af
